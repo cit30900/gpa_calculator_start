@@ -1,5 +1,5 @@
 # GPA Calculator
-Using Python, create a command line program that requests grades from the user and responds with all of the grades they have entered and a calculation of their grade point average (GPA)
+Using Python, create a command line program that requests grades from the user and responds with all of the grades they have entered and a calculation of their grade point average (GPA).
 
 ## Starter Code
 Starter code is provided to you in [`index.py`](index.py). This is a recommended structure for this application, but you may choose your own.
@@ -24,6 +24,9 @@ Starter code is provided to you in [`index.py`](index.py). This is a recommended
 
 ## Hints
 * **Remember the importance of variable scope.** Your program should not include any "global" variables. Any information needed by a function should be passed into that function.
+
+## Submission Instructions
+To submit, simply attach your `index.py` file to the Assignments tool in Canvas.
 
 ## Example
 An animated .gif file with a working solution appears below.
